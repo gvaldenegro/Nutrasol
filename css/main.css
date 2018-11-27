@@ -16543,3 +16543,7 @@ a.color-icon.border-icon:hover {
 .text-icon {
 	text-transform: uppercase;
 }
+
+.intro-layer h2 {
+	-webkit-text-stroke: 2px #ffffff;
+}
